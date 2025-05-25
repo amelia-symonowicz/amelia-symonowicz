@@ -6,9 +6,9 @@
  I'm a passionate high school student diving deep into web development, effective studying, reading non-fiction books. <br>
  I love building creative digital projects, learning new skills, and stepping out of my comfort zone. <br>
 
- • I'm currently focused on learning Python for Matura <br>
- • 2025 goal: developing my coding skills <br>
- • Fun fact: I wake up at 5:00 AM (yes, really) <br>
+ •  I'm currently focused on learning Python for Matura <br>
+ •  2025 goal: developing my coding skills <br>
+ •  Fun fact: I wake up at 5:00 AM (yes, really) <br>
 
  <h2>🌱 Currently Learning</h2>
  
